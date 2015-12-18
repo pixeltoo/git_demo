@@ -1,2 +1,2 @@
 # git_demo
-Une
+Une demo git.
